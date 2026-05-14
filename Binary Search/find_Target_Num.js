@@ -19,12 +19,14 @@ function binarySearch(arr, target) {
 
     }
 
+    return -1 ;
+
 }
 let arr = [2, 4, 6, 8, 10];
 let target = 8;
 console.log(binarySearch(arr, target));
 
-// binarySearch(arr, target)
+
 
 
 
